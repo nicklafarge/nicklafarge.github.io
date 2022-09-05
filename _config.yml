@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick LaFarge / Personal Home"
+title                    : "Nick LaFarge / Home"
 title_separator          : "-"
 name                     : &name "Nick LaFarge"
-description              : &description "personal description"
+description              : &description "TEST"
 url                      : https://nicklafarge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicklafarge/nicklafarge.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Nick LaFarge"
-  avatar           : "files/nick_lafarge.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "nick_lafarge.jpg"
+  bio              : "PhD Candidate at Purdue" # | Astrodynamics Researcher
   location         : "West Lafayette, IN"
-  employer         : "Purdue University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZxSQHyQAAAAJ"
   email            : "nick.lafarge@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nick-lafarge"
+  linkedin         : "nick-lafarge"
   orcid            : "https://orcid.org/0000-0002-5623-3714"
   pinterest        :
   soundcloud       :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

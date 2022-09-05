@@ -1,19 +1,25 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
-Education
+Download PDF version [here](http://nicklafarge.github.io/files/NickLaFargeResume.pdf) (Last revised: September, 2022)
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/nick-lafarge) for any additional information.
+
+I keep both [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge) and [Google Scholar](https://scholar.google.com/citations?user=ZxSQHyQAAAAJ) up to date for research publications.
+
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Aeronautics & Astronautics Engineering, Purdue University, May 2023 (expected)
+* M.S. in Aeronautics & Astronautics Engineering, Purdue University, 2020
+* B.A. in Mathematics (Computational) and Japanese, University of Colorado Boulder, 2014
 
 Work experience
 ======
@@ -57,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
