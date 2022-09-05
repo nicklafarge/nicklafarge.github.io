@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF version [here](http://nicklafarge.github.io/files/NickLaFargeResume.pdf) (Last revised: September, 2022)
+Download my resume [here](http://nicklafarge.github.io/files/NickLaFargeResume.pdf) (Last revised: September, 2022)
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/nick-lafarge) for any additional information.
 
