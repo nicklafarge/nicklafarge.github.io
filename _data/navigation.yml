@@ -4,8 +4,11 @@ main:
     url: /publications/
 
   - title: "Resume"
-    url: /resume/
+    url: http://nicklafarge.github.io/files/NickLaFargeResume.pdf
 
+  # - title: "Research"
+    # url: /research/
+    
   # - title: "Talks"
     # url: /talks/    
 

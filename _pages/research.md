@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
+
 
 I keep both [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge) and [Google Scholar](https://scholar.google.com/citations?user=ZxSQHyQAAAAJ) up to date for research publications.
 

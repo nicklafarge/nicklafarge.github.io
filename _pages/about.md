@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nick LaFarge"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Nicholas (Nick) LaFarge received a Bachelor of Arts in Computational Mathematics and Japanese from the University of Colorado Boulder in 2014 and a Master of Science in Aeronautics and Astronautics from Purdue University in 2020. After his bachelors, he spent two years working in the software industry before finding his way toward the intersection of his many interests by studying astrodynamics at Purdue. Nick participated in an internship at the Jet Propulsion Laboratory in 2017, working on an interactive tool for computing multi-body orbit connections in Monte. Starting in 2018, Nick has been a Graduate Pathways Co-Op at Johnson Space Center, working on automated onboard processes for rendezvous, proximity operations, and docking for Orion. Nick was awarded a NASA Space Technology Research Fellowship in 2019, and is currently pursing research in applying reinforcement learning to automated inflight multi-body guidance. In his free time, Nick enjoys traveling, backpacking, rock climbing, audiobooks, and hiking.
+Hi! I'm Nick LaFarge. I am currently a PhD candidate in the [Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) at [Purdue University](https://engineering.purdue.edu/AAE) under Professor Kathleen Howell. I'm interested in the intersection of astrodynamics, numerical methods, and software engineering, and am currently performing research in leveraging reinforcement learning techniques to enable low-thrust guidance and control autonomy within cislunar space.
+
+
+Graduate research
+-------------------------
+I currently pursue research in applying reinforcement learning to onboard guidance and control in multi-body dynamical regimes. I am particularly interested in autonomous systems, and understanding where neural networks fit into safety-critical GN&C architectures. Some of my other research interests include multi-body dynamics trajectory design, machine learning, and developing software tools for spaceflight applications.
+
+
+My background
+------------------
+I received a BA in Mathematics and Japanese from the University of Colorado Boulder in 2014, with a minor in Computer Science. Upon graduating with my bachelors, I spent several years as a software engineer, building both Python tools for data analytics research and Android applications, including spending 2.5 years as the sole developer of the [OpenSnow](https://opensnow.com/) Android application. I eventually found my way toward the intersection of my many interests by studying astrodynamics at Purdue, pursuing both an MS and PhD in the [Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html). In 2017 I participated in an internship at the Jet Propulsion Laboratory, working on [an interactive tool](https://trs.jpl.nasa.gov/handle/2014/48313) for computing multi-body orbit connections in MONTE. Starting in 2018, I became a [Graduate Pathways Co-Op](https://www.nasa.gov/feature/jsc-pathways-program/) at NASA Johnson Space Center, and have completed three work rotations focusing on automated onboard GN&C processes for rendezvous, proximity operations, and docking for Orion. Since 2019 I have pursued a PhD under a [NASA Space Technology Research Fellowship (NSTRF/NSTGRO)](https://www.nasa.gov/directorates/spacetech/strg/nstgro), including three 10-12 week visiting technologist experiences with the Navigation and Mission Design Branch at NASA Goddard Space Flight Center.
