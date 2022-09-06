@@ -4,7 +4,8 @@ main:
     url: /publications/
 
   - title: "Resume"
-    url: http://nicklafarge.github.io/files/NickLaFargeResume.pdf
+    # url: http://nicklafarge.github.io/files/NickLaFargeResume.pdf
+    url: /resume/
 
   # - title: "Research"
     # url: /research/
