@@ -16,7 +16,7 @@ Graduate research
 -------------------------
 I currently pursue research in applying reinforcement learning to onboard guidance and control in multi-body dynamical regimes. I am particularly interested in autonomous systems, and understanding where neural networks fit into safety-critical GN&C architectures. Some of my other research interests include multi-body dynamics trajectory design, machine learning, and developing software tools for spaceflight applications.
 
-Here is a fun animation - from [my paper](https://www.researchgate.net/publication/364118980_Adaptive_Closed-Loop_Maneuver_Planning_for_Low-Thrust_Spacecraft_using_Reinforcement_Learning) at the 73rd International Astronautical Congress ([IAC](https://iac2022.org/)) - that shows a neural network generating recovery maneuver plans to return a low-thrust spacecraft to a baseline Earth-Moon 9:2 NRHO.
+Here is a fun animation - from [my paper](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2022_IAC_LafHowFol.pdf) at the 73rd International Astronautical Congress ([IAC](https://iac2022.org/)) - that shows a neural network generating recovery maneuver plans to return a low-thrust spacecraft to a baseline Earth-Moon 9:2 NRHO.
 
 ![Neural Network Animation]({{ site.baseurl }}/files/IAC_recovery_animation.gif)
 
