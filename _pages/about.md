@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Nicholas (Nick) LaFarge. I am currently a PhD candidate in the [Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) at [Purdue University](https://engineering.purdue.edu/AAE) under Professor Kathleen Howell. I'm interested in the intersection of astrodynamics, numerical methods, and software engineering, and am currently performing research in leveraging reinforcement learning techniques to enable low-thrust guidance and control autonomy within cislunar space.
+Hi! I'm Nicholas (Nick) LaFarge. I am currently a PhD candidate in the [Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) at [Purdue University](https://engineering.purdue.edu/AAE) under Professor Kathleen Howell. I'm interested in the intersection of astrodynamics, numerical methods, and software engineering, and am currently performing research in leveraging reinforcement learning techniques to enable autonomous low-thrust maneuver planning within cislunar space.
 
 
 
