@@ -18,4 +18,5 @@ I keep both [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge
   - **LaFarge, N. B.**, Miller, D., Howell, K. C., and Linares, R., "[Guidance for Closed-Loop Transfers using Reinforcement Learning with Application to Libration Point Orbits](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2020_AIAA_LafMilHowLin.pdf)", *AIAA SciTech Forum*, Orlando, Florida, January 6 - 10, 2020.
 
 ### Theses
+  - **LaFarge, N. B.**, [Reinforcement Learning Approaches for Autonomous Guidance and Control in a Low-Thrust, Multi-Body Dynamical Environment](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/dissertations/2023_LaFarge.pdf), Ph.D. Dissertation, Purdue University, 2023.
   - **LaFarge, N. B.**, [Autonomous Guidance for Multi-Body Orbit Transfers Using Reinforcement Learning](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/masters/2020_Lafarge.pdf), M.S. Thesis, Purdue University, 2020.
