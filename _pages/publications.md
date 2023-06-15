@@ -9,7 +9,7 @@ I keep both [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge
 
 
 ### Journal Publications
-  - **LaFarge, N. B.**, Howell, K. C., and Folta, D. C., "Adaptive Closed-Loop Maneuver Planning for Low-Thrust Spacecraft using Reinforcement Learning", *Acta Astronautica*, Available online 7 June 2023, DOI: [http://dx.doi.org/10.1016/j.actaastro.2023.06.004](http://dx.doi.org/10.1016/j.actaastro.2023.06.004)
+  - **LaFarge, N. B.**, Howell, K. C., and Folta, D. C., "Adaptive Closed-Loop Maneuver Planning for Low-Thrust Spacecraft using Reinforcement Learning," *Acta Astronautica*, Available online 7 June 2023, DOI: [http://dx.doi.org/10.1016/j.actaastro.2023.06.004](http://dx.doi.org/10.1016/j.actaastro.2023.06.004)
   - **LaFarge, N. B.**, Miller, D., Howell, K. C., and Linares, R., "Autonomous Closed-Loop Guidance Using Reinforcement Learning in a Low-Thrust, Multi-Body Dynamical Environment," *Acta Astronautica*, Vol. 186, Sep. 2021, pg. 1 - 23, DOI: [https://doi.org/10.1016/j.actaastro.2021.05.014](https://doi.org/10.1016/j.actaastro.2021.05.014)
 
 ### Conference Publications
