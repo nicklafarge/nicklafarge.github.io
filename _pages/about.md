@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Hi! I'm Nicholas (Nick) LaFarge. I'm interested in the intersection of astrodynamics, numerical methods, and software engineering, and am currently
-a mission design engineer at the Johns Hopkins University Applied Physics Laboratory (APL).
+a mission design and navigation engineer at the Johns Hopkins University Applied Physics Laboratory (APL).
 
 
 Graduate research
 -------------------------
-As a MS/PhD student in the Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) at [Purdue University](https://engineering.purdue.edu/AAE) under Professor Kathleen Howell, I pursued research in leveraging reinforcement learning techniques to enable autonomous low-thrust maneuver planning within cislunar space. I am particularly interested in autonomous systems, and understanding where neural networks fit into safety-critical GN&C architectures. Some of my other research interests include multi-body dynamics trajectory design, machine learning, and developing software tools for spaceflight applications.
+As a MS/PhD student in the [Multi-Body Dynamics Research Group](https://engineering.purdue.edu/people/kathleen.howell.1/index.html) at [Purdue University](https://engineering.purdue.edu/AAE) under Professor Kathleen Howell, I pursued research in leveraging reinforcement learning techniques to enable autonomous low-thrust maneuver planning within cislunar space. I am particularly interested in autonomous systems, and understanding where neural networks fit into safety-critical GN&C architectures. Some of my other research interests include multi-body dynamics trajectory design, machine learning, and developing software tools for spaceflight applications.
 
 Here is a fun animation - from [my paper](https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2022_IAC_LafHowFol.pdf) at the 73rd International Astronautical Congress ([IAC](https://iac2022.org/)) - that shows a neural network generating recovery maneuver plans to return a low-thrust spacecraft to a baseline Earth-Moon 9:2 NRHO.
 
