@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-I keep both [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge) and [Google Scholar](https://scholar.google.com/citations?user=ZxSQHyQAAAAJ) up to date for research publications.
+My publications are available [ResearchGate](https://www.researchgate.net/profile/Nicholas-Lafarge) and [Google Scholar](https://scholar.google.com/citations?user=ZxSQHyQAAAAJ), though they may not always be up-to-date.
 
 
 ### Journal Publications
-  - **LaFarge, N. B.**, Howell, K. C., and Folta, D. C., "Adaptive Closed-Loop Maneuver Planning for Low-Thrust Spacecraft using Reinforcement Learning," *Acta Astronautica*, Vol. 211, Oct. 2023, pg. 142 - 154, DOI: [http://dx.doi.org/10.1016/j.actaastro.2023.06.004](http://dx.doi.org/10.1016/j.actaastro.2023.06.004)
-  - **LaFarge, N. B.**, Miller, D., Howell, K. C., and Linares, R., "Autonomous Closed-Loop Guidance Using Reinforcement Learning in a Low-Thrust, Multi-Body Dynamical Environment," *Acta Astronautica*, Vol. 186, Sep. 2021, pg. 1 - 23, DOI: [https://doi.org/10.1016/j.actaastro.2021.05.014](https://doi.org/10.1016/j.actaastro.2021.05.014)
+
+  - Ojeda Romero, J., Schlei, W., Whipps, G., **LaFarge, N. B.**, Fritsch, G., Phillips, S., "An Adaptive Approach to the Initial Orbit Determination Problem in the Cislunar Regime Using Machine Learning," *The Journal of the Astronautical Sciences*, Vol. 72, Article 45, Sep. 2025, DOI: [https://doi.org/10.1007/s40295-025-00525-3c](https://doi.org/10.1007/s40295-025-00525-3c).
+  - **LaFarge, N. B.**, Howell, K. C., and Folta, D. C., "Adaptive Closed-Loop Maneuver Planning for Low-Thrust Spacecraft using Reinforcement Learning," *Acta Astronautica*, Vol. 211, Oct. 2023, pg. 142 - 154, DOI: [http://dx.doi.org/10.1016/j.actaastro.2023.06.004](http://dx.doi.org/10.1016/j.actaastro.2023.06.004).
+  - **LaFarge, N. B.**, Miller, D., Howell, K. C., and Linares, R., "Autonomous Closed-Loop Guidance Using Reinforcement Learning in a Low-Thrust, Multi-Body Dynamical Environment," *Acta Astronautica*, Vol. 186, Sep. 2021, pg. 1 - 23, DOI: [https://doi.org/10.1016/j.actaastro.2021.05.014](https://doi.org/10.1016/j.actaastro.2021.05.014).
 
 ### Conference Publications
   - Ojeda Romero, J., Schlei, W., Whipps, G., **LaFarge, N. B.**, Fritsch, G., Phillips, S., "[An Adaptive Approach to the Initial Orbit Determination Problem in the Cislunar Regime Using Machine Learning](https://amostech.com/TechnicalPapers/2024/Cislunar_SDA/Ojeda-Romero.pdf)", *2024 Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference*, Maui, Hawaii, September 17 - 20, 2024.
